@@ -17,11 +17,11 @@ I am a **passionate Developer** specializing in **Full Stack Development, DevOps
 
 ### 📫 Connect with me:
 
-<p style="display: flex; align-items: center; gap: 16px;">
+<p style="display: flex; align-items: center; ">
   <a href="https://www.linkedin.com/in/chethiya-bandara-96867234a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:chethiyabandara2001@gmail.com" target="_blank"style="padding: 16px;">
+  <a href="mailto:chethiyabandara2001@gmail.com" target="_blank"style="padding:24px;">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="40" />
   </a>
 </p>
