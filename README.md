@@ -3,15 +3,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chethiya2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-I am a passionate Developer specializing in Full Stack Development, DevOps, and Cloud Technologies. I have hands-on experience with Flutter, .NET, Next.js, and Microservices. Currently, I’m exploring DevOps and cloud technologies to enhance automation and scalability in software development.
+I am a passionate Software Developer focused on building modern web/mobile applications, enterprise systems, and scalable cloud solutions. My primary expertise includes PHP, .NET, React.js, Angular, Flutter, database design, and cloud technologies. I enjoy creating reliable software, optimizing performance, and implementing best practices across the development lifecycle.
 
-### 🚀 What I'm Working On:
-- **SaaS Conference Registration App** - A scalable platform for managing conferences and registrations.
-- **Flutter Membership App** - A mobile app for membership registration, webinars, and elections.
-- **.NET Microservices** - Authentication, Email, and Payment Microservices with MySQL & MongoDB.
-- **DevOps Learning** - Implementing CI/CD pipelines, Kubernetes, and Docker.
+Currently, I am expanding my knowledge in cloud architecture, containerization, and DevOps practices to deliver highly scalable and maintainable applications.
 
----
 
 ### 📫 Connect with me:
 
