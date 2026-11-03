@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chethiya2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-I am a passionate Software Developer focused on building modern web/mobile applications, enterprise systems, and scalable cloud solutions. My primary expertise includes PHP, .NET, React.js, Angular, Flutter, database design, and cloud technologies. I enjoy creating reliable software, optimizing performance, and implementing best practices across the development lifecycle.
+I am a passionate Software Developer focused on building modern web/mobile applications, enterprise systems, and scalable cloud solutions. I enjoy creating reliable software, optimizing performance, and implementing best practices across the development lifecycle.
 
 Currently, I am expanding my knowledge in cloud architecture, containerization, and DevOps practices to deliver highly scalable and maintainable applications.
 
